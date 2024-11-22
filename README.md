@@ -1,4 +1,4 @@
-Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
 This repository contains a Credit Card Fraud Detection project where machine learning models are used to predict whether a transaction is fraudulent or legitimate. The project employs Random Forest and XGBoost models, achieving 86% accuracy with Random Forest and 88% accuracy with XGBoost.
 Table of Contents
